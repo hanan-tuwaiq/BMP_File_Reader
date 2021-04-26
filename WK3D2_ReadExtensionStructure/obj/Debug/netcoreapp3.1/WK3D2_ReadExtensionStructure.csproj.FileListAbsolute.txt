@@ -1,0 +1,12 @@
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/bin/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.deps.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/bin/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.runtimeconfig.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/bin/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.runtimeconfig.dev.json
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/bin/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.dll
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/bin/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.pdb
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.csprojAssemblyReference.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.AssemblyInfo.cs
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.dll
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.pdb
+/Users/hanans/Desktop/Tuwaiq/lessons/WK3D2_ReadExtensionStructure/WK3D2_ReadExtensionStructure/obj/Debug/netcoreapp3.1/WK3D2_ReadExtensionStructure.genruntimeconfig.cache
